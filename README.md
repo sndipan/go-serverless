@@ -1,4 +1,4 @@
-# Go Serverless with AWS Lambda and Azure Functions
+# Go Serverless with AWS Lambda and Azure Functions - Sandipan 
 
 ## Quick Links
 - [Learning Basics of AWS Lambda and API Gateway](https://github.com/in28minutes/go-serverless/blob/master/00.aws/getting-started-lambda-api-gateway.md) 
